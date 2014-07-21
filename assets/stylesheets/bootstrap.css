@@ -9,14 +9,14 @@
  */
 .label {
   display: inline;
-  padding: .2em .6em .2em;
-  font-size: 75%;
+  padding: .05em .9em;
+  font-size: 90%;
   font-weight: bold;
   line-height: 1;
   color: #ffffff;
   text-align: center;
   white-space: nowrap;
-  vertical-align: baseline;
+  vertical-align: middle;
   border-radius: .25em;
 }
 .label[href]:hover,
