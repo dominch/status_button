@@ -29,14 +29,17 @@
   display: none;
 }
 .label-default {
-  background-color: #999999;
+  background-color: #c7c7c7;
+  border: solid 1px #a8a8a8;
 }
 .label-default[href]:hover,
 .label-default[href]:focus {
-  background-color: #808080;
+  background-color: #d4d4d4;
 }
 .label-primary {
   background-color: #428bca;
+  background: linear-gradient(#4ebbd6 0%, #428bca 100%);
+  border: solid 1px #2e7dd2;
 }
 .label-primary[href]:hover,
 .label-primary[href]:focus {
